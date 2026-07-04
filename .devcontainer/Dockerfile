@@ -1,1 +1,1 @@
-FROM openjdk:21-ea
+FROM openjdk:17-ea

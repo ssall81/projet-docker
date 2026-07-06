@@ -1,0 +1,4 @@
+FROM ubuntu:latest
+ARG THEARG="foo"
+RUN echo $THEARG
+CMD ["env"]
